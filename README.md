@@ -18,6 +18,4 @@ MyProjectGroup/
 │   ├── login.html
 │   ├── signup.html
 │   └── user.html
-├── Dockerfile
-├── requirements.txt
 └── Week1.py
